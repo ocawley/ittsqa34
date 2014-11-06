@@ -35,7 +35,7 @@ echo Test Case $case
 	#List state: {-1, 39, 40, 50, 80, 101 } 
 	echo Inputs: 80,80
 	echo Actual output: $(java grades 80 80)
-	echo Expected output: "Pass with distinction"
+	echo Expected output: "Pass"
 echo
 echo Test Case $case
 	#List state: {-1, 39, 40, 50, 80, 101 } 
